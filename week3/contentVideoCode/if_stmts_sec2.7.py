@@ -5,12 +5,12 @@ if 5 > 10: #False
 if 10 > 5: #True
     print("10 is greater")
     
-print(10 < 5)
-print(10 > 5)
-print(10 >= 5)
-print(10 <= 5)
-print(10 == 5)
-print(10 != 5)
+print(10 < 5) #less than
+print(10 > 5) #greater than
+print(10 >= 5) #greater than or equal to
+print(10 <= 5) #less than or equal to
+print(10 == 5) #equal to
+print(10 != 5) #not equal to
 
 age = 25
 
